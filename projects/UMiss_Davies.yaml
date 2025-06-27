@@ -1,0 +1,9 @@
+Department: Physics and Astronomy
+Description: Physics-informed neural networks to create a detector-agnostic calibration
+  tool. Particularly for arrays of detectors, where the position of the individual
+  members needs to be calibrated.
+FieldOfScience: Physics and astronomy
+FieldOfScienceID: '40.1101'
+InstitutionID: https://osg-htc.org/iid/bigpgrrmxblz
+Organization: University of Mississippi
+PIName: Gavin Davies
